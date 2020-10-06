@@ -1,10 +1,10 @@
 <div align="center">
-  <h1>Muhammad Muneeb - Full Stack JS Developer</h1>
+  <h1>Muhammad Husnain - JS Developer</h1>
 </div>
 - :fire: JavaScript Enthusiast
 - :seedling: I’m currently learning advanced React
 - :zap:️ Fun fact: I just love learning new things
-- :speech_balloon: Chat with me:  [@muneeb](https://www.linkedin.com/in/muhammad-muneeb-900704155/)
+- :speech_balloon: Chat with me:  [@hcurnor](https://www.linkedin.com/in/hcurnor/)
 <!-- - :male-technologist: Working as FrontEnd Web-Developer at [Timeless](https://timeless.co/)  -->
 ## I love working in
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -29,6 +29,6 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png"></code>
-![Muneeb's github stats](https://github-readme-stats.vercel.app/api?username=mmuneeb10&count_private=true&hide=contribs,prs&show_icons=true)
-![](https://visitor-badge.laobi.icu/badge?page_id=mmuneeb10.mmuneeb10)
-[![Github](https://img.shields.io/github/followers/hcurnor?label=Follow&style=social)](https://github.com/mmuneeb10)
+![Hcurnor's github stats](https://github-readme-stats.vercel.app/api?username=hcurnor&count_private=true&hide=contribs,prs&show_icons=true)
+![](https://visitor-badge.laobi.icu/badge?page_id=hcurnor.hcurnor)
+[![Github](https://img.shields.io/github/followers/hcurnor?label=Follow&style=social)](https://github.com/hcurnor)
