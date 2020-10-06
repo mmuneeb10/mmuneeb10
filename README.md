@@ -39,5 +39,5 @@
 
 ![Muneeb's github stats](https://github-readme-stats.vercel.app/api?username=mmuneeb10&count_private=true&hide=contribs,prs&show_icons=true)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=mmuneeb10.mmuneeb10)
+![](https://visitor-badge.laobi.icu/badge?page_id=mmuneeb10)
 [![Github](https://img.shields.io/github/followers/mmuneeb10?label=Follow&style=social)](https://github.com/mmuneeb10)
