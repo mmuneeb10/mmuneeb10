@@ -5,7 +5,7 @@
 - 🔥 JavaScript Enthusiast
 - 🌱 I’m currently learning advanced React
 - ⚡️ Fun fact: I just love learning new things
-- 💬 Chat with me:  [@hcurnor](https://www.linkedin.com/in/muhammad-muneeb-900704155/)
+- 💬 Chat with me:  [@muneeb](https://www.linkedin.com/in/muhammad-muneeb-900704155/)
 <!-- - 👨‍💻 Working as FrontEnd Web-Developer at [Timeless](https://timeless.co/)  -->
 
 ## I love working in
